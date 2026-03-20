@@ -36,7 +36,7 @@ The primary focus is detecting that an object is **leaving** and estimating **ho
 | K-Nearest Neighbors | 71.11% |
 | SVM (RBF kernel) | 66.67% |
 | Decision Tree | 78.52% |
-| **Random Forest** | **85.93% ✓** |
+| **Random Forest** | **85.93% ** |
 
 **TtC Regression (MAE):**
 
