@@ -1,0 +1,5 @@
+Model,MAE (s),RMSE (s),Target (<0.6 s),Notes
+Threshold-only (Baseline 1),N/A,N/A,N/A,Cannot predict TtC
+Trend-based (Baseline 2),313.0438,1302.5940,✗,TtC = (thresh − d) / velocity
+Linear Regression,16.2240,24.6082,✗,Baseline ML regressor; StandardScaler applied
+Random Forest,6.3801,10.8169,✗,500 trees; no scaling required

@@ -1,0 +1,8 @@
+Model,Accuracy,Avg Precision,Avg Recall,Avg F1,Notes
+Threshold-only (Baseline 1),32.59%,10.62%,32.59%,16.02%,Cannot classify motion direction; predicts all Stationary
+Trend-based (Baseline 2),57.78%,77.74%,57.78%,56.06%,Velocity sign with fixed epsilon threshold
+Logistic Regression,67.41%,68.73%,67.41%,66.85%,Linear baseline ML; StandardScaler applied
+Decision Tree,78.52%,81.32%,78.52%,79.45%,Single tree; no scaling required
+K-Nearest Neighbors,71.11%,74.12%,71.11%,70.85%,k=5; StandardScaler applied
+SVM (RBF kernel),66.67%,70.56%,66.67%,66.20%,RBF kernel C=1.0; StandardScaler applied
+Random Forest,85.93%,86.85%,85.93%,86.25%,500 trees; no scaling required
