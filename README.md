@@ -9,7 +9,8 @@ Under the guidance of **Prof. Dr. Andreas Pech**
 | Akanksha Venkatesh Venkatesh Baitipuli | 1568316 | akanksha.venkatesh-baitipuli@stud.fra-uas.de |
 | Ayush Naresh Parmar | 1565427 | ayush.parmar@stud.fra-uas.de |
 
-**Project Duration:** 02 Dec 2025 – 20 Mar 2026
+**Project Duration:** 02 Dec 2025 – 20 Mar 2026 
+---
 ##Demo Video 
 [Click Here to Watch the Demo Video](https://drive.google.com/file/d/1iX32-kErdm9tRCw2_e8-SNyBhhvOqm4q/view?usp=sharing)
 ---
