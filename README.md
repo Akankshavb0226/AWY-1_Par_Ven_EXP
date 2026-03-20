@@ -6,7 +6,7 @@ Under the guidance of **Prof. Dr. Andreas Pech**
 
 | Student | Matr. No. | Email |
 |---|---|---|
-| Akanksha Venkatesh Baitipuli | 1568316 | akanksha.venkatesh-baitipuli@stud.fra-uas.de |
+| Akanksha Venkatesh Venkatesh Baitipuli | 1568316 | akanksha.venkatesh-baitipuli@stud.fra-uas.de |
 | Ayush Naresh Parmar | 1565427 | ayush.parmar@stud.fra-uas.de |
 
 **Project Duration:** 02 Dec 2025 – 20 Mar 2026
