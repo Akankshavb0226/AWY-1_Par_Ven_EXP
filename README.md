@@ -166,7 +166,7 @@ streamlit run streamlit_app.py
 - Once 300 readings are available, the same 16 features used during training are extracted and passed to the classifier.
 - The app displays **four live metrics**: current sensor reading, ML motion prediction, TtC estimate, and AGV decision state.
 
-### AGV Decision States
+### Autonomous Guided Vehicle Decision States
 
 | State | Condition |
 |---|---|
